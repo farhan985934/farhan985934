@@ -1,0 +1,1 @@
+This is vip_features.js for the final spin game setup.

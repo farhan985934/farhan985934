@@ -1,0 +1,1 @@
+This is jackpot.js for the final spin game setup.
